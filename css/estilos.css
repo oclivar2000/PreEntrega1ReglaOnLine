@@ -115,3 +115,24 @@ footer {
 	bottom: 0;
 	width: 100%;
 } */
+
+
+/* PERSONALIZACIÓN BOOTSTRAP */
+
+.btn-primary {
+  background-color: #008cba;
+  border-color: #008cba;
+}
+
+.btn-primary:hover {
+  background-color: #006f96;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+header h1 {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
